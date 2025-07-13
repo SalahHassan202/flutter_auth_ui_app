@@ -1,16 +1,75 @@
-# flutter_auth_ui_app
 
-A new Flutter project.
+---
 
-## Getting Started
+# 🔐 Flutter Auth UI – Login & Signup App
 
-This project is a starting point for a Flutter application.
+A **Flutter** app with clean and modern design for user **authentication**, including `Welcome`, `Login`, and `Signup` screens.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🌟 Features:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🖥️ Pages:
+
+* Welcome page with navigation buttons.
+* Login screen with email and password fields.
+* Signup screen with form and social login icons (Facebook, Twitter, Google+).
+
+### 🎨 UI:
+
+* Custom fonts and theme.
+* SVG assets and background decoration.
+* Rounded buttons and styled form inputs.
+
+---
+
+## 🧠 Concepts Used:
+
+* **Stateless Widgets**
+* **Navigation between screens**
+* **TextFormField & Form UI**
+* **SVG & Image assets**
+* **GestureDetector & Routing**
+
+---
+
+## 🔧 How to Use:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/SalahHassan202/flutter_auth_ui_app.git
+````
+
+2. Get dependencies:
+
+   ```bash
+   flutter pub get
+   ```
+3. Run the app:
+
+   ```bash
+   flutter run
+   ```
+
+---
+
+## 💻 Language & Tools:
+
+* **Dart (Flutter)**
+* **Android Studio / VS Code**
+* **SVG Assets**
+
+---
+
+## 🤝 Contributions:
+
+Feel free to fork this repo and contribute!
+Suggestions and pull requests are always welcome 🌱
+
+---
+
+## ✍️ Created By:
+
+**Salah Hassan** – Student & Flutter Developer 🚀
+
+---
